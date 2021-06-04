@@ -2,13 +2,6 @@
 ## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
 
 
-### Requirements 
-
-- PHP 5.3 or higher recommended 
-- MySQL DB
-- Ability to write .htaccess file for apache mod_rewrite
-
-
 ### Main Features
 
 - Multiple user access:  Allows multiple type of users(teacher/student/admin) to login 
